@@ -1,9 +1,3 @@
-- Hello, Im @StijnDiks
-- Im currently learning Web Devving
+Hello, Im the dev of FIle Studio
 
-
-- 📫 How to reach me Discord: ziphe_
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't have a father (no joke)
-
-
+I just do things and it keeps working
